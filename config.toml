@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'In love with Simplicity'
+theme = 'mini'
+
+[params]
+hiddenPostSummaryInHomePage = true
